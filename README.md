@@ -18,7 +18,7 @@ This repo includes implementation of different types of GANs
 ## References
 
 <a id="1" href="https://arxiv.org/abs/1406.2661">[1] Generative Adversarial Nets</a>
-```latex
+```bibtex
 @article{goodfellow2014generative,
   title={Generative adversarial networks},
   author={Goodfellow, Ian J and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua},
@@ -28,7 +28,7 @@ This repo includes implementation of different types of GANs
 ```
 
 <a id="2" href="https://phillipi.github.io/pix2pix/">[2] Image-to-Image Translation with Conditional Adversarial Nets</a>
-```latex
+```bibtex
 @article{pix2pix2017,
   title={Image-to-Image Translation with Conditional Adversarial Networks},
   author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
@@ -38,7 +38,7 @@ This repo includes implementation of different types of GANs
 ```
 
 <a id="3" href="https://junyanz.github.io/CycleGAN/">[3] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
-```latex
+```bibtex
 @inproceedings{CycleGAN2017,
   title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks},
   author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
