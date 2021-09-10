@@ -1,0 +1,14 @@
+{
+
+
+    "cityscrapes_dataset":"E:/Users/VS_Code_Workspace/Machine learning/GANs/dataset/cityscapes",
+    "log_fullpath":"%(base_dir)s/checkpoints/pix2pix/%(version)s/log_%(version)s.log",
+    "runs_dir":"%(base_dir)s/runs/pix2pix/%(version)s",
+    
+    "gen_checkpoint_fullpath":"%(base_dir)s/checkpoints/pix2pix/%(version)s/gen_%(version)s.pt",
+    "disc_checkpoint_fullpath":"%(base_dir)s/checkpoints/pix2pix/%(version)s/disc_%(version)s.pt",
+    "hparams_save_fullpath":"%(base_dir)s/checkpoints/pix2pix/%(version)s/hparams_%(version)s.json",
+    
+    "imgs_dir" : "%(base_dir)s/gifs/pix2pix/%(version)s/images/",
+    "gif_file_fullpath":"%(base_dir)s/gifs/pix2pix/%(version)s/pix2pix_out_%(version)s.gif"
+}

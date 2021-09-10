@@ -1,0 +1,13 @@
+{
+    "seed":10,
+    "device":"cuda",
+    "img_channels":3,
+    "batch_size":32,
+    "num_epochs":10,
+    "lr":2e-4,
+    "beta1":0.5,
+    "beta2":0.999,
+    "img_size":256,
+    "ngf":64,
+    "ndf":64
+}

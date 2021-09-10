@@ -1,0 +1,14 @@
+{
+    "seed":10,
+    "device":"cuda",
+    "lr":2e-4,
+    "image_size":256,
+    "image_channels":3,
+    "l1_lambda":100,
+    "num_epochs":5,
+    "train_batch_size":16,
+    "val_batch_size":5,
+    "disc_in_channels":3,
+    "gen_in_channels":1,
+    "gen_out_channels":2
+}

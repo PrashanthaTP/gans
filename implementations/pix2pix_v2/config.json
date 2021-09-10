@@ -1,0 +1,14 @@
+{
+    "train_dataset_dir":"E:////Users////VS_Code_Workspace////Machine learning////GANs////dataset////archive////tiny-imagenet-200////train",
+    "val_dataset_dir":"E://Users//VS_Code_Workspace//Machine learning//GANs//dataset//archive//test",
+    "gen_checkpoint_fullpath":"%(base_dir)s//checkpoints//pix2pix_v2//%(version)s//gen_%(version)s.pt",
+    "disc_checkpoint_fullpath":"%(base_dir)s//checkpoints//pix2pix_v2//%(version)s//disc_%(version)s.pt",
+    "hparams_fullpath":"%(base_dir)s//checkpoints//pix2pix_v2//%(version)s//hparams_%(version)s.json",
+    "imgs_dir":"%(base_dir)s//gifs//pix2pix_v2//%(version)s//images",
+    "gif_fullpath":"%(base_dir)s//gifs//pix2pix_v2//%(version)s//",
+
+    "log_fullpath":"%(base_dir)s//checkpoints//pix2pix_v2//%(version)s//%(log_filename)s.log",
+    "runs_dir":"%(base_dir)s//runs//pix2pix_v2//%(version)s"
+    
+    
+}   

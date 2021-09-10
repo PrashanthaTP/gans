@@ -1,0 +1,10 @@
+{   
+    "runs_dir":"%(base_dir)s/runs/vanilla_gan/%(version)s",
+    "log_fullpath":"%(base_dir)s/chekpoints/vanilla_gan/%(version)s/log_%(version)s.log",
+    "gen_checkpoint_fullpath":"%(base_dir)s/chekpoints/vanilla_gan/%(version)s/gen_%(version)s.pt",
+    "disc_checkpoint_fullpath":"%(base_dir)s/chekpoints/vanilla_gan/%(version)s/disc_%(version)s.pt",
+    "hparams_save_fullpath":"%(base_dir)s/checkpoints/vanilla_gan/%(version)s/hparams_%(version)s.json",
+
+    "imgs_dir":"%(base_dir)s/gifs/vanilla_gan/images/%(version)s",
+    "gif_file_fullpath":"%(base_dir)s/gifs/vanilla_gan/vanilla_gan_out_%(version)s.gif"
+} 
